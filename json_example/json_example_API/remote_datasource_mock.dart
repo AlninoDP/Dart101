@@ -14,7 +14,7 @@ class RemoteDataSourceMock {
   {"advice_id": 7, "advice":"Choose experience over things — The impact they have over your life will last you a lifetime guaranteed."},
   {"advice_id": 8, "advice":"Learn to forgive — Mistakes happen and judges never benefit you. Just move on to what the future brings."},
   {"advice_id": 9,  "advice":"Be willing to smile more — it makes you happier, it's contagious, lowers stress, more trustworthy, and more competent — all costing you nothing."},
-  {"advice_id": 10, "advice":"Don't get attached to stuff — Nothing lasts forever, so don’t base your happiness on materialistic things."}
+  {"advice_id": 10, "advice":"Don't get attached to stuff — Nothing lasts forever, so don't base your happiness on materialistic things."}
 ]
 ''';
 
